@@ -49,14 +49,14 @@ TestResult.xml
 
 # Build Results of JetBrains
 .idea/
-.idea/.idea.Zeroit.Framework.CodeExplorer/.idea/
-.idea/.idea.Zeroit.Framework.CodeExplorer/.idea/workspace.xml
-.idea/.idea.Zeroit.Framework.CodeExplorer/.idea/contentModel.xml
-.idea/.idea.Zeroit.Framework.CodeExplorer/.idea/encodings.xml
-.idea/.idea.Zeroit.Framework.CodeExplorer/.idea/indexLayout.xml
-.idea/.idea.Zeroit.Framework.CodeExplorer/.idea/misc.xml
-.idea/.idea.Zeroit.Framework.CodeExplorer/.idea/modules.xml
-.idea/.idea.Zeroit.Framework.CodeExplorer/.idea/vsc.xml
+.idea/.idea.Zeroit.Framework.CodeTextBox/.idea/
+.idea/.idea.Zeroit.Framework.CodeTextBox/.idea/workspace.xml
+.idea/.idea.Zeroit.Framework.CodeTextBox/.idea/contentModel.xml
+.idea/.idea.Zeroit.Framework.CodeTextBox/.idea/encodings.xml
+.idea/.idea.Zeroit.Framework.CodeTextBox/.idea/indexLayout.xml
+.idea/.idea.Zeroit.Framework.CodeTextBox/.idea/misc.xml
+.idea/.idea.Zeroit.Framework.CodeTextBox/.idea/modules.xml
+.idea/.idea.Zeroit.Framework.CodeTextBox/.idea/vsc.xml
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
