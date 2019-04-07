@@ -1,4 +1,4 @@
-![](<https://github.com/zeroitdev/Zeroit.Framework.CodeTextBox/blob/master/Preview/Preview.png>)
+![](<https://github.com/zeroitdev/Zeroit.Framework.CodeTextBox/blob/master/Preview/Preview.PNG>)
 
 
 
